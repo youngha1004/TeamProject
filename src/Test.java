@@ -4,4 +4,5 @@ public class Test { //git에서 관리를 안하기 때문에 빨간색 초록�
     private int f3;
     private int f4;
     private int f5;
+    private int f6;
 }
