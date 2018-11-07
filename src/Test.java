@@ -8,5 +8,7 @@ public class Test { //git에서 관리를 안하기 때문에 빨간색 초록�
     private int f7;
     private int f8;
     private int f9;
+    private int f10;
     private int f11;
+
 }
